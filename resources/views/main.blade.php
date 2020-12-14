@@ -14,7 +14,7 @@
 <body class="container">
 
 <header>
-    <h1>My Travels</h1>
+    <h1>My Travels 3</h1>
 </header>
 
 <div class="main">

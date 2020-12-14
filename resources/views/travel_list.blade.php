@@ -9,7 +9,7 @@
                     <div class="column x5">
 
                         <ul class="list">
-                            <li class="header visited">Visited</li>
+                            <li class="header visited">Visited 4</li>
                             @foreach ($visited as $place)
                                 <li>{{ $place->name }}</li>
                             @endforeach
